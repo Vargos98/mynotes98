@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+#Live link : https://mynotes98.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
