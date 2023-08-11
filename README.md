@@ -2,6 +2,9 @@
 
 #Live link : https://mynotes98.vercel.app/
 
+![Screenshot (29)](https://github.com/Vargos98/mynotes98/assets/127929058/e36f60a9-75c3-45fa-8027-85bbf06b3af1)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
